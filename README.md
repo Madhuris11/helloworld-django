@@ -11,7 +11,7 @@ This is a simple Django app that returns a JSON response with a "Hello World!" m
 
   ```bash
 
-  git clone https://github.com/Madhuris11
+  git clone https://github.com/Madhuris11/helloworld-django.git
 
   ```
 
